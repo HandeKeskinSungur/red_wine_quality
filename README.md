@@ -5,10 +5,8 @@ In this project, I will analyze the Red Wine Data and try to understand which va
 
 # Table of Contents
 
-  - redWineAnalysis.html - The Final project report with codes and analysis
+  - red_wine_quality.html - The Final project report with codes and analysis
 
-  - redWineAnalysis.rmd - The R - Markdown file
-
-  - references.txt - List of references.
+  - red_wine_quality.rmd - The R - Markdown file
 
   - wineQualityReds.csv - The dataset from which analysis was done.
